@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.vuzix.hud.resources","l":"DetailsActivity"},{"p":"com.vuzix.hud.resources","l":"Utils.DisplayType"},{"p":"com.vuzix.hud.resources","l":"DynamicThemeActivity"},{"p":"com.vuzix.hud.resources","l":"DynamicThemeApplication"},{"p":"com.vuzix.hud.resources","l":"Utils"}];updateSearchResults();
