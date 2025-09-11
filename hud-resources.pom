@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vuzix</groupId>
   <artifactId>hud-resources</artifactId>
-  <version>1.10.0</version>
+  <version>1.11.0</version>
   <packaging>aar</packaging>
   <url>https://vuzix.github.io/hud-resources</url>
   <inceptionYear>2021</inceptionYear>
